@@ -239,4 +239,5 @@ endmodule
 
 <img src="IMG_3520.jpg" width="50%" />
 <img src="IMG_3521.jpg" width="50%" />
-<video src="IMG_3397.MOV" />
+
+[<img src="IMG_3360.jpg" width="30%" /> ](IMG_3397.MOV)
