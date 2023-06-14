@@ -233,6 +233,10 @@ endmodule
 ![Alt text](/number_list.PNG?raw=true "Simulation diagram")
 
 # Hardware prototype
-![Alt text](IMG_3520.jpg?raw=true 'Pmod_front plane')
+<!-- ![Alt text](IMG_3520.jpg?raw=true 'Pmod_front plane')
 ![Alt text](IMG_3521.jpg?raw=true 'Pmod_back plane')
-![Video](IMG_3397.MOV 'Pmod_front plane')
+![Video](IMG_3397.MOV 'Pmod_front plane') -->
+
+<img src="IMG_3520.jpg" width="50%" />
+<img src="IMG_3521.jpg" width="50%" />
+<video src="IMG_3397.MOV" />
