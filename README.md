@@ -228,3 +228,6 @@ always@(negedge clock_reg_div_800)begin
 endmodule
 
 ```
+
+# Simulation  
+![Alt text](/number_list.PNG?raw=true "Title")
