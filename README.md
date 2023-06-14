@@ -3,7 +3,7 @@
 ## Simple 74hc595 sfifted 1 position 7 segment display 
 
 
-sible display module based on 74hc595 shift register pmod comptible 
+simple display module based on 74hc595 shift register pmod compatible 
 
 Binary  sequences corespondig to numbers    LSBFIRTS  configuration 
 
