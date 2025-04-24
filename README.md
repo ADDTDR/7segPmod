@@ -100,7 +100,7 @@ endmodule
 
 ```
 
-# Stick umber module
+# 74hv595 7 segment PMOD
 ```verilog 
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
